@@ -1,0 +1,17 @@
+backend/target/
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+.idea/
+.vscode/
+*.iml
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
